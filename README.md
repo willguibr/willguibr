@@ -1,16 +1,20 @@
-### Hi there 👋
+Hi there 👋 I'm still learning so bear with me :smile:
 
-<!--
-**willguibr/willguibr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter Follow](https://img.shields.io/twitter/follow/willguibr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fwillguibr&screen_name=willguibr)
+[![GitHub followers](https://img.shields.io/github/followers/willguibr?color=1DA1F2&logo=linkedin&style=for-the-badge)][Linkedin]
 
-Here are some ideas to get you started:
+ - Cloud Security Architecture and Networking
+ - Cyber Security and Threat Hunting
+ - Terraform and Automation
+ - Sales Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ### Connect with me
+ 
+[<img align="left" alt="willguibr | Twitter" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="willguibr | LinkedIn" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]<br />
+
+![](https://komarev.com/ghpvc/?username=willguibr&style=flat-square)
+![](https://hit.yhype.me/github/profile?user_id=23208337)
+
+[twitter]: https://twitter.com/willguibr
+[linkedin]: https://linkedin.com/in/willguibr
