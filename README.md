@@ -6,7 +6,6 @@ Hi there 👋 I'm still learning so bear with me :smile:
  - Cloud Security Architecture and Networking
  - Cyber Security and Threat Hunting
  - Terraform and Automation
- - Sales Engineering
 
  ### Connect with me
  
