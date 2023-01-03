@@ -1,7 +1,9 @@
 ### Hi there I am [William](https://github.com/willguibr)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br/>
 
+[![Linkedin Follow](https://img.shields.io/badge/Linkedin-Follow-blue?color=1DA1F2&logo=minutemailer&style=for-the-badge)][linkedin]
 [![Twitter Follow](https://img.shields.io/twitter/follow/willguibr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fwillguibr&screen_name=willguibr)
+[![Zscaler Community](https://img.shields.io/badge/Zscaler%20Community-Blog-green?color=1DA1F2&logo=minutemailer&style=for-the-badge)][website]
 
 ## Some of my open-source projects
 
@@ -22,6 +24,7 @@
 ### Ansible Modules
 - [ZPA Ansible Module](https://github.com/zscaler/zpacloud-ansible) - Zscaler Private Access Ansible Module
 - [ZIA Ansible Module](https://github.com/zscaler/ziacloud-ansible) - Zscaler Internet Access Ansible Module
+
 ### Connect with me
 
 [<img align="left" alt="community.zscaler.com/u/wguilherme" width="22" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
