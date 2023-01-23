@@ -2,8 +2,21 @@
 <br/>
 
 [![Linkedin Follow](https://img.shields.io/badge/Linkedin-Follow-blue?color=1DA1F2&logo=minutemailer&style=for-the-badge)][linkedin]
-[![Twitter Follow](https://img.shields.io/twitter/follow/willguibr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fwillguibr&screen_name=willguibr)
 [![Zscaler Community](https://img.shields.io/badge/Zscaler%20Community-Blog-green?color=1DA1F2&logo=minutemailer&style=for-the-badge)][website]
+
+---
+
+I am a Solutions Architect | Technology Alliances at Zscaler, and the original developer/creator of several DevOps tools to enable Zscaler cloud automation using HashiCorp products such as Terraform and Consul, Ansible, Crossplane and Pulumi. I am also the author of multiple blog articles, and videos in the [Zscaler Community](https://community.zscaler.com/tag/devops). Passionate about helping people get into cloud, sharing my learnings in cloud, DevOps and DevSecOps.
+
+---
+
+### Languages and tools ⚙️
+<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+<p>
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/go.svg" alt="Golang Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="Terraform Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="Azure Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/>
+</p>
+
+---
 
 ## Some of my open-source projects
 
@@ -24,6 +37,9 @@
 ### Ansible Modules
 - [ZPA Ansible Module](https://github.com/zscaler/zpacloud-ansible) - Zscaler Private Access Ansible Module
 - [ZIA Ansible Module](https://github.com/zscaler/ziacloud-ansible) - Zscaler Internet Access Ansible Module
+
+### Crossplane Providers
+- [ZPA Crossplane Provider](https://github.com/zscaler/crossplane-provider-zpa) - Zscaler Private Access Crossplane Provider
 
 ### Connect with me
 
