@@ -28,6 +28,7 @@ I am a Solutions Architect | Technology Alliances at Zscaler, and the original d
 ### Terraform Modules
 - [ZPA AWS Terraform Module](https://github.com/zscaler/terraform-aws-zpa-app-connector-modules) - Terraform Reusable Modules for ZPA App Connector VMs on AWS
 - [ZPA Azure Terraform Module](https://github.com/zscaler/terraform-azurerm-zpa-app-connector-modules) - Terraform Reusable Modules for ZPA App Connector VMs on Azure
+- [Zscaler Private Service Edge AWS Module](https://github.com/zscaler/terraform-azurerm-zpa-app-connector-modules) - Terraform Modules for Zscaler Private Service Edge on AWS
 
 ### Consul-Terraform-Sync Modules
 - [ZPA Application Segment CTS Module](https://github.com/zscaler/terraform-zpa-application-segment-nia) - Zscaler Private Access Consul-Terraform-Sync module that will create and update application segments in the ZPA Cloud
@@ -40,6 +41,10 @@ I am a Solutions Architect | Technology Alliances at Zscaler, and the original d
 
 ### Crossplane Providers
 - [ZPA Crossplane Provider](https://github.com/zscaler/crossplane-provider-zpa) - Zscaler Private Access Crossplane Provider
+
+### Pulumi Providers
+- [ZPA Pulumi Provider](https://github.com/zscaler/pulumi-zpa) - Zscaler Private Access Pulumi Provider
+- [ZIA Pulumi Provider](https://github.com/zscaler/pulumi-zia) - Zscaler Internet Access Pulumi Provider
 
 ### Connect with me
 
