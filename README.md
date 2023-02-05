@@ -24,6 +24,7 @@ I am a Solutions Architect | Technology Alliances at Zscaler, and the original d
 - [ZPA Terraform Provider](https://github.com/zscaler/terraform-provider-zpa) - Zscaler Private Access Terraform Provider
 - [ZIA Terraform Provider](https://github.com/zscaler/terraform-provider-zia) - Zscaler Internet Access Terraform Provider
 - [ZIA Terraformer](https://github.com/zscaler/zscaler-terraformer) - Zscaler Terraformer Migration Tool
+- [Zscaler GO SDK](https://github.com/zscaler/zscaler-sdk-go) - Zscaler SDK for Golang (ZPA/ZIA APIs)
 
 ### Terraform Modules
 - [ZPA AWS Terraform Module](https://github.com/zscaler/terraform-aws-zpa-app-connector-modules) - Terraform Reusable Modules for ZPA App Connector VMs on AWS
