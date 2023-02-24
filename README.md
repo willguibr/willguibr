@@ -47,6 +47,10 @@ I am a Solutions Architect | Technology Alliances at Zscaler, and the original d
 - [ZPA Pulumi Provider](https://github.com/zscaler/pulumi-zpa) - Zscaler Private Access Pulumi Provider
 - [ZIA Pulumi Provider](https://github.com/zscaler/pulumi-zia) - Zscaler Internet Access Pulumi Provider
 
+### Publications
+- [Manage Your Zscaler Infrastructure as Code Using HashiCorp Terraform](https://www.zscaler.com/blogs/product-insights/manage-your-zscaler-infrastructure-code-using-hashicorp-terraform)
+- [Achieve Dynamic Zero Trust Services Automation with Zscaler and Consul-Terraform-Sync](https://www.zscaler.com/blogs/product-insights/achieve-dynamic-zero-trust-services-automation-zscaler-and-consul-terraform)
+
 ### Connect with me
 
 [<img align="left" alt="community.zscaler.com/u/wguilherme" width="22" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
