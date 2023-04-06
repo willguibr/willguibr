@@ -1,3 +1,8 @@
+<a href="https://github-readme-stats.vercel.app/api?username=willguibr&show_icons=true&theme=tokyonight&count_private=true&hide=stars">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=willguibr&show_icons=true&theme=tokyonight&count_private=true&hide=stars" />
+</a>
+
+
 ### Hi there I am [William](https://github.com/willguibr)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br/>
 
