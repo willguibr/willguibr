@@ -11,7 +11,7 @@
 
 ---
 
-I am a Solutions Architect | Technology Alliances at Zscaler, and the original developer/creator of several DevOps tools to enable Zscaler cloud automation using HashiCorp products such as Terraform and Consul, Ansible, Crossplane and Pulumi. I am also the author of multiple blog articles, and videos in the [Zscaler Community](https://community.zscaler.com/tag/devops). Passionate about helping people get into cloud, sharing my learnings in cloud, DevOps and DevSecOps.
+I am a Principal Solutions Architect | Technology Alliances at Zscaler, and the original developer/creator of several DevOps tools to enable Zscaler cloud automation using HashiCorp products such as Terraform and Consul, Ansible, Crossplane and Pulumi. I am also the author of multiple blog articles, and videos in the [Zscaler Community](https://community.zscaler.com/tag/devops). Passionate about helping people get into cloud, sharing my learnings in cloud, DevOps and DevSecOps.
 
 ---
 
