@@ -41,9 +41,11 @@ I am a Solutions Architect | Technology Alliances at Zscaler, and the original d
 - [ZPA Application Server CTS Module](https://github.com/zscaler/terraform-zpa-application-server-nia) - Zscaler Private Access Consul-Terraform-Sync module that will create and update application servers in the ZPA Cloud
 - [ZIA Cloud Firewall CTS Module](https://github.com/zscaler/terraform-zia-cfw-ip-source-group-nia) - Zscaler Internet Access Consul-Terraform-Sync module that will dynamically create and update IP Source Groups in the ZIA Cloud Firewall
 
-### Ansible Modules
+### Ansible Modules and Tools
 - [ZPA Ansible Module](https://github.com/zscaler/zpacloud-ansible) - Zscaler Private Access Ansible Module
 - [ZIA Ansible Module](https://github.com/zscaler/ziacloud-ansible) - Zscaler Internet Access Ansible Module
+- [Zscaler Python SDK](https://github.com/zscaler/zscaler-sdk-python) - Zscaler SDK for Python (ZPA/ZIA/ZCON/ZCC/ZDX APIs)
+- [ZPA Cloud Playbooks](https://github.com/zscaler/zpacloud-playbooks) - Sample playbooks for the Zscaler Private Access Ansible modules
 
 ### Crossplane Providers
 - [ZPA Crossplane Provider](https://github.com/zscaler/crossplane-provider-zpa) - Zscaler Private Access Crossplane Provider
@@ -55,6 +57,9 @@ I am a Solutions Architect | Technology Alliances at Zscaler, and the original d
 ### Publications
 - [Manage Your Zscaler Infrastructure as Code Using HashiCorp Terraform](https://www.zscaler.com/blogs/product-insights/manage-your-zscaler-infrastructure-code-using-hashicorp-terraform)
 - [Achieve Dynamic Zero Trust Services Automation with Zscaler and Consul-Terraform-Sync](https://www.zscaler.com/blogs/product-insights/achieve-dynamic-zero-trust-services-automation-zscaler-and-consul-terraform)
+- [Announcing Zscaler's Terraform Modules for ZIA, ZPA and More: Simplifying and Automating Zscaler Service Deployments](https://www.zscaler.com/blogs/product-insights/zscaler-terraform-modules-zia-zpa)
+- [Introducing Zscaler Terraformer Tool](https://www.zscaler.com/blogs/product-insights/introducing-zscaler-terraformer-tool)
+- 
 
 ### Connect with me
 
