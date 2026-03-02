@@ -30,7 +30,8 @@ I am a Principal Solutions Architect | Technology Alliances at Zscaler, and the 
 - [ZIA Terraform Provider](https://github.com/zscaler/terraform-provider-zia) - Zscaler Internet Access Terraform Provider
 - [ZIA Terraformer](https://github.com/zscaler/zscaler-terraformer) - Zscaler Terraformer Migration Tool
 - [Zscaler GO SDK](https://github.com/zscaler/zscaler-sdk-go) - Zscaler SDK for Golang (ZPA/ZIA APIs)
-
+- [Zscaler Python SDK](https://github.com/zscaler/zscaler-sdk-python) - Zscaler SDK for Python (ZPA/ZIA APIs)
+- 
 ### Terraform Modules
 - [ZPA AWS Terraform Module](https://github.com/zscaler/terraform-aws-zpa-app-connector-modules) - Terraform Reusable Modules for ZPA App Connector VMs on AWS
 - [ZPA Azure Terraform Module](https://github.com/zscaler/terraform-azurerm-zpa-app-connector-modules) - Terraform Reusable Modules for ZPA App Connector VMs on Azure
@@ -54,12 +55,19 @@ I am a Principal Solutions Architect | Technology Alliances at Zscaler, and the 
 - [ZPA Pulumi Provider](https://github.com/zscaler/pulumi-zpa) - Zscaler Private Access Pulumi Provider
 - [ZIA Pulumi Provider](https://github.com/zscaler/pulumi-zia) - Zscaler Internet Access Pulumi Provider
 
+### MCP Server Projects
+- [Zscaler MCP Server](https://github.com/zscaler/zscaler-mcp-server) - Zscaler MCP Server
+- [Zscaler AI Guard MCP Server](https://github.com/zscaler/zguard-mcp-server) - Zscaler AI Guard MCP Server
+- [Zscaler AI Guard MCP Relay](https://github.com/zscaler/zguard-mcp-relay) - Zscaler AI Guard MCP Relay
+- [Zscaler AI Guard Integrations](https://github.com/zscaler/zguard-ai-integrations) - Zscaler AI Guard Integrations
+
 ### Publications
 - [Manage Your Zscaler Infrastructure as Code Using HashiCorp Terraform](https://www.zscaler.com/blogs/product-insights/manage-your-zscaler-infrastructure-code-using-hashicorp-terraform)
 - [Achieve Dynamic Zero Trust Services Automation with Zscaler and Consul-Terraform-Sync](https://www.zscaler.com/blogs/product-insights/achieve-dynamic-zero-trust-services-automation-zscaler-and-consul-terraform)
 - [Announcing Zscaler's Terraform Modules for ZIA, ZPA and More: Simplifying and Automating Zscaler Service Deployments](https://www.zscaler.com/blogs/product-insights/zscaler-terraform-modules-zia-zpa)
 - [Introducing Zscaler Terraformer Tool](https://www.zscaler.com/blogs/product-insights/introducing-zscaler-terraformer-tool)
-- 
+- [Automating Zscaler Platform with Red Hat Ansible Automation Platform](https://www.zscaler.com/blogs/product-insights/automating-zscaler-platform-red-hat-ansible-automation-platform)
+- [Zscaler Integrations MCP Server: Unified Security Automation to Your AI Agents](https://www.zscaler.com/blogs/product-insights/zscaler-integrations-mcp-server-unified-security-automation-your-ai-agents)
 
 ### Connect with me
 
